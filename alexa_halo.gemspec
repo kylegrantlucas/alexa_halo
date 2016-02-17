@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["kylegrantlucas"]
   spec.email         = ["kglucas93@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{A sinatra middleware for checking halo stats with alexa.}
+  spec.description   = %q{A sinatra middleware for checking halo stats with alexa.}
+  spec.homepage      = "http://github.com/kylegrantlucas/alexa_halo"
   spec.license       = "MIT"
 
   spec.add_runtime_dependency 'sinatra-contrib'
